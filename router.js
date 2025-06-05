@@ -18,3 +18,5 @@ document.addEventListener("click", (e) => {
 })
 
 window.addEventListener("popstate", handleRoute);
+
+handleRoute();
